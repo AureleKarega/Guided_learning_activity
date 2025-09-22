@@ -30,5 +30,5 @@ Stacks are widely used in enterprise systems:
 ## Running Tests
 To run unit tests:
 ```bash
-python -m unittest test_stack.py
+ python3 test_stack.py
 
